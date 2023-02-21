@@ -5,8 +5,8 @@ Introduction: We designed an Underwater Robot that can **adapt to dive** in the 
 
 ![8](IMG/8.jpg)
 
-![4](IMG/4.jpg)
+![4](IMG/4.JPG)
 
 ![6](IMG/6.jpg)
 
-![3](3.jpeg)
+![3](IMG/3.jpeg)
